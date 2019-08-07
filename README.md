@@ -1,4 +1,5 @@
 # video2bvh
+<<<<<<< HEAD
 
 video2bvh extracts human motion in video and save it as bvh mocap file.
 
@@ -62,3 +63,6 @@ Once get the bvh file, you can easily retarget the motion to other 3D character 
 - [ ] Add more 2D estimators, such as [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) and [PoseResNet](https://github.com/microsoft/human-pose-estimation.pytorch).
 - [ ] Smoothing 2D pose and 3D pose.
 - [ ] Real-time demo.
+=======
+Extracts human motion in video and save it as bvh mocap file.
+>>>>>>> f8165345775b5adbe9fd90c99be07890b44476cb
