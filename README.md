@@ -52,7 +52,7 @@ Open [demo.ipynb](https://github.com/KevinLTT/video2bvh/raw/master/demo.ipynb) i
 
 
 ## Retargeting
-Once get the bvh file, you can easily retarget the motion to other 3D character model with existing tools. The girl model we used is craeted using [MakeHuman](http://www.makehumancommunity.org/), and the demo is rendered with [Blender](https://www.blender.org/). The [MakeWalk](http://www.makehumancommunity.org/wiki/Documentation:MakeWalk) plugin helps us do the retargeting work.
+Once get the bvh file, you can easily retarget the motion to other 3D character model with existing tools. The girl model we used is created using [MakeHuman](http://www.makehumancommunity.org/), and the demo is rendered with [Blender](https://www.blender.org/). The [MakeWalk](http://www.makehumancommunity.org/wiki/Documentation:MakeWalk) plugin helps us do the retargeting work.
 
 <p align="center">
 <img src="https://github.com/KevinLTT/video2bvh/raw/master/miscs/demo/cxk_retargeting.gif" width="240">

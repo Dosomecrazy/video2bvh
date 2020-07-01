@@ -27,7 +27,7 @@ class OpenPoseEstimator(Estimator2D):
             datum = op.Datum()
             datum.cvInputData = img
             self.opWrapper.emplaceAndPop([datum])
-            keypoints = datum.poseKeypoints
+            # keypoints = datum.poseKeypoints
             if bbox_list:
                 # TODO: restore coordinate
                 pass
